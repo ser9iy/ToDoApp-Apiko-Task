@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+}
+
+.done {
+  text-decoration: line-through;
+}
+button {
+  width: 100%;
+}
+spam {
+  font-size: 14px;
+}
+i:hover {
+  cursor: pointer;
+}
